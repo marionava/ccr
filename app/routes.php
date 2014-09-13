@@ -13,5 +13,5 @@
 
 Route::get('/', function()
 {
-	return 'Hola Mario desde CCR en iMac';
+	return 'Hola Mario desde CCR en iMac, no mejor desde la Mac';
 });
